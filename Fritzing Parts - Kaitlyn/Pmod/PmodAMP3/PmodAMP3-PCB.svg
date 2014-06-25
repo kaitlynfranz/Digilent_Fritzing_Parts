@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108.029px" height="57.543px" viewBox="0 0 108.029 57.543" enable-background="new 0 0 108.029 57.543"
+	 xml:space="preserve">
+<g id="silkscreen">
+</g>
+<g id="copper0">
+	<g id="copper1">
+		<g>
+			<rect x="0" fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" width="108.029" height="57.543"/>
+			<text transform="matrix(1 0 0 1 67.3503 31.459)" font-family="'OCRA'" font-size="7">PmodAMP3</text>
+			<text transform="matrix(0 -1 1 0 66.5271 38.4258)" font-family="'OCRA'" font-size="4">J4</text>
+			<text transform="matrix(0 -1 1 0 66.5271 24.3867)" font-family="'OCRA'" font-size="4">J2</text>
+			<text transform="matrix(0 -1 1 0 25.1521 10.7461)" font-family="'OCRA'" font-size="4">J3</text>
+			<text transform="matrix(0 -1 1 0 17.7234 54.6934)" font-family="'OCRA'" font-size="4">JP2</text>
+			<text transform="matrix(0 -1 1 0 21.7107 33.123)" font-family="'OCRA'" font-size="4">JP1</text>
+			<text transform="matrix(1 0 0 1 1.2507 55.1426)" font-family="'OCRA'" font-size="4">J1</text>
+			<text transform="matrix(0 -1 1 0 38.8318 21.7363)" font-family="'OCRA'" font-size="4">SDA</text>
+			<text transform="matrix(0 -1 1 0 31.4568 21.8438)" font-family="'OCRA'" font-size="4">SCL</text>
+			<text transform="matrix(0 -1 1 0 45.8728 13.8438)" font-family="'OCRA'" font-size="4">SCL</text>
+			<text transform="matrix(0 -1 1 0 65.8591 13.8438)" font-family="'OCRA'" font-size="4">SDA</text>
+			<text transform="matrix(1 0 0 1 57.4226 30.1758)" font-family="'OCRA'" font-size="4">IC1</text>
+			<text transform="matrix(1 0 0 1 15.8601 45.4473)" font-family="'OCRA'" font-size="4">MCLK</text>
+			<text transform="matrix(1 0 0 1 28.7439 45.4473)" font-family="'OCRA'" font-size="4">BCLK</text>
+			<text transform="matrix(1 0 0 1 44.7439 22.4268)" font-family="'OCRA'" font-size="4">JP3</text>
+			<text transform="matrix(1 0 0 1 53.8035 22.4268)" font-family="'OCRA'" font-size="4">JP4</text>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,15.386 7.957,13.422 
+				7.957,10.646 9.919,8.682 12.699,8.682 14.662,10.646 14.662,13.422 12.699,15.386 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,22.089 7.957,20.125 
+				7.957,17.349 9.919,15.385 12.699,15.385 14.662,17.349 14.662,20.125 12.699,22.089 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,28.794 7.957,26.83 
+				7.957,24.054 9.919,22.09 12.697,22.09 14.662,24.054 14.662,26.83 12.697,28.794 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,48.859 7.957,46.896 
+				7.957,44.12 9.919,42.156 12.699,42.156 14.662,44.12 14.662,46.896 12.699,48.859 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,42.201 7.957,40.236 
+				7.957,37.461 9.919,35.497 12.699,35.497 14.662,37.461 14.662,40.236 12.699,42.201 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="9.919,35.498 7.957,33.534 
+				7.957,30.758 9.919,28.794 12.697,28.794 14.662,30.758 14.662,33.534 12.697,35.498 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,15.386 1.251,13.422 
+				1.251,10.646 3.214,8.682 5.994,8.682 7.957,10.646 7.957,13.422 5.994,15.386 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,22.089 1.251,20.125 
+				1.251,17.349 3.214,15.385 5.994,15.385 7.957,17.349 7.957,20.125 5.994,22.089 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,28.794 1.251,26.83 
+				1.251,24.054 3.214,22.09 5.992,22.09 7.957,24.054 7.957,26.83 5.992,28.794 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,48.859 1.251,46.896 
+				1.251,44.12 3.214,42.156 5.994,42.156 7.957,44.12 7.957,46.896 5.994,48.859 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,42.201 1.251,40.236 
+				1.251,37.461 3.214,35.497 5.994,35.497 7.957,37.461 7.957,40.236 5.994,42.201 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="3.214,35.498 1.251,33.534 
+				1.251,30.758 3.214,28.794 5.992,28.794 7.957,30.758 7.957,33.534 5.992,35.498 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="49.68,18.123 47.717,16.158 
+				47.717,13.381 49.68,11.417 52.458,11.417 54.422,13.381 54.422,16.158 52.458,18.123 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="49.83,11.417 47.867,9.453 
+				47.867,6.676 49.83,4.712 52.608,4.712 54.572,6.676 54.572,9.453 52.608,11.417 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="56.363,18.123 54.4,16.158 
+				54.4,13.381 56.363,11.417 59.142,11.417 61.105,13.381 61.105,16.158 59.142,18.123 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="56.513,11.417 54.551,9.453 
+				54.551,6.676 56.513,4.712 59.292,4.712 61.255,6.676 61.255,9.453 59.292,11.417 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="49.593,53.67 47.63,51.705 
+				47.63,48.93 49.593,46.965 52.372,46.965 54.335,48.93 54.335,51.705 52.372,53.67 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="49.744,46.965 47.781,45 
+				47.781,42.225 49.744,40.26 52.522,40.26 54.486,42.225 54.486,45 52.522,46.965 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="56.277,53.67 54.314,51.705 
+				54.314,48.93 56.277,46.965 59.055,46.965 61.019,48.93 61.019,51.705 59.055,53.67 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="56.427,46.965 54.464,45 
+				54.464,42.225 56.427,40.26 59.206,40.26 61.169,42.225 61.169,45 59.206,46.965 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="38.779,51.857 36.814,53.82 
+				34.038,53.82 32.074,51.857 32.074,49.08 34.038,47.115 36.814,47.115 38.779,49.08 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="32.074,51.707 30.109,53.67 
+				27.333,53.67 25.369,51.707 25.369,48.93 27.333,46.965 30.109,46.965 32.074,48.93 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="25.415,51.857 23.45,53.82 
+				20.673,53.82 18.709,51.857 18.709,49.08 20.673,47.116 23.45,47.116 25.415,49.08 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="39.685,9.542 37.72,11.506 
+				34.943,11.506 32.978,9.542 32.978,6.765 34.943,4.801 37.72,4.801 39.685,6.765 			"/>
+			<polygon fill="none" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="32.978,9.393 31.014,11.355 
+				28.237,11.355 26.273,9.393 26.273,6.614 28.237,4.65 31.014,4.65 32.978,6.614 			"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="12.046" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="18.749" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="25.454" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="45.521" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="38.861" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="4.604" cy="32.158" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="12.022" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="18.726" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="25.431" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="45.497" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="38.838" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="11.309" cy="32.135" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="51.112" cy="14.781" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="51.112" cy="8.078" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="57.816" cy="8.055" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="57.816" cy="14.758" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="35.425" cy="50.316" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="28.766" cy="50.316" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="22.063" cy="50.316" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="51.07" cy="50.328" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="51.07" cy="43.625" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="57.774" cy="43.602" r="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="57.774" cy="50.305" r="1.584"/>
+			<ellipse fill="none" stroke="#FEBF10" stroke-width="1.152" cx="29.614" cy="8.067" rx="1.591" ry="1.584"/>
+			<ellipse fill="none" stroke="#FEBF10" stroke-width="1.152" cx="36.346" cy="8.044" rx="1.591" ry="1.584"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="24.717" cy="28.875" r="1.584"/>
+			<circle fill="#8B181A" cx="24.718" cy="28.875" r="1"/>
+			<circle fill="none" stroke="#FEBF10" stroke-width="1.152" cx="31.396" cy="28.712" r="1.584"/>
+			<circle fill="#8B181A" cx="31.397" cy="28.713" r="1"/>
+		</g>
+	</g>
+</g>
+</svg>
